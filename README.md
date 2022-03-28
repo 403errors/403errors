@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sitama-from-IITM
+- 👋 Hi, I’m @Saitama-from-IITM
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning B.Tech.
 - 💞️ I’m looking to collaborate on ~
