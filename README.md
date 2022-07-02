@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Saitama-from-IITM
-- 👀 I’m interested in Programming.
-- 🌱 I’m currently learning B.Tech.
-- 💞️ I’m looking to collaborate on ~
+- 👀 I’m interested in Web and iOS Developement.
+- 🌱 I’m currently persuing B.Tech. from NA21.
 - 📫 You can reach me by mail : na21b061@smail.iitm.ac.in
 
 <!---
