@@ -23,7 +23,7 @@
 
 ---
 
-### :man_technologist: About Me: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and Data Analyst from India.
+### :man_technologist: About Me: I am a Full Stack Developer and Data Analyst from India.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 - :telescope: I’m working as a Software Engineer, contributing to full-stack development for building web applications and Machine Learning for data analysis.
 
 - :seedling: Exploring technologies and learning new skills.
