@@ -17,9 +17,9 @@
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div align="center">
+<!-- <div align="center">
   <img src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47f5mfedr36ynj1qxmn0jgl478bz4mmrgrl7klg1u0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500" height="300"/>
-</div>
+</div> -->
 
 ---
 
