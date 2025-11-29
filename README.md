@@ -3,21 +3,22 @@
 <a href="https://www.hackerrank.com/pieisnot22by7" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge">
 </a>
 
+> **AI Prompt Engineer | Machine Learning & Full-Stack Developer | Building Intelligent, Autonomous Systems**
 
-> **Machine Learning & Full-Stack Developer**
-
-I'm a passionate developer with experience in machine learning, natural language processing, and full-stack web development. I enjoy building scalable applications and tackling challenging problems with innovative solutions. This portfolio showcases some of my key projects. Currently persuing my B.Tech. from IIT Madras.
+I'm **Sameer Verma**, a passionate developer and B.Tech. graduate from **IIT Madras**, specializing in **AI Prompt Engineering**, **Machine Learning**, **Natural Language Processing**, and **Full-Stack Web Development**. I thrive on creating intelligent, autonomous systems and building scalable applications that solve challenging problems with innovative solutions. This portfolio showcases my journey and key projects in these exciting fields.
 
 ---
 
 <div align="center">
 
+### 💻 Tech Stack & Expertise
+
 **Programming Languages**
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" title="C"/>
-  
 </div>
 <br>
 
@@ -25,11 +26,11 @@ I'm a passionate developer with experience in machine learning, natural language
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" title="React"/>    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux" title="Redux"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" title="Next.js"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" title="Bootstrap"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" 
-     width="40" height="40" alt="TailwindCSS" title="TailwindCSS"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" height="40" alt="TailwindCSS" title="TailwindCSS"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40"  alt="jQuery" title="jQuery"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40"  alt="MaterialUI" title="MaterialUI"/>
 </div>
@@ -38,15 +39,15 @@ I'm a passionate developer with experience in machine learning, natural language
 **Backend Development**
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" title="Node.js"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express" title="Express"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" title="MongoDB"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" title="MySQL"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" title="Redis"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40" height="40" alt="Socket.io" title="Socket.io"/>
 </div>
 <br>
 
-**Machine Learning - Data Science**
+**Machine Learning & Data Science**
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" title="TensorFlow"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" title="PyTorch"/>
@@ -56,7 +57,7 @@ I'm a passionate developer with experience in machine learning, natural language
 </div>
 <br>
 
-**Tools**  
+**Tools & Platforms**  
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub"/>
@@ -66,104 +67,110 @@ I'm a passionate developer with experience in machine learning, natural language
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter Notebook" title="Jupyter Notebook"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud" title="Google Cloud"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" title="Firebase"/>
 </div>
 
-
 </div>
 
 ---
 
-## Featured Projects
+### 🚀 Featured Projects
 
-### 1. SwiftChat (In Progress) 💬
+Dive into some of my recent and most impactful projects:
 
-**[Project Link](https://github.com/403errors/SwiftChat)** 
+#### 1. RepoMind 🧠
 
-*   **Description:** A modern, full-stack real-time chat application built with the MERN stack, emphasizing a responsive user interface and core communication features.
-*   **Highlights:**
-    *   **Real-time Communication:** Utilizes Socket.io for instant messaging capabilities.
-    *   **Responsive Design:**  Provides a seamless user experience across different devices using Tailwind CSS and DaisyUI.
-    *   **Loading Skeletons:**  Implements loading skeletons to improve perceived performance during data fetching.
-    *   **Cloudinary Integration:** Uses Cloudinary for efficient image storage and delivery.
-    *  **Modern Stack**: Full MERN stack project
-    *   **Structured Development:** Follows a phased development roadmap for organized feature delivery.
+**[Project Link](https://github.com/403errors/repomind)** | **[Live Demo](https://repomind-ai.vercel.app)**
 
-*   **Technologies:** MongoDB, Express.js, React.js, Node.js, Socket.io, Tailwind CSS, DaisyUI, Zustand, Cloudinary, JWT, bcryptjs
+-   **Description:** An open-source, AI-powered application using **Agentic CAG** to chat with any public GitHub repository or developer profile, offering deep code analysis, visual architecture maps, and security audits.
+-   **Highlights:**
+    -   **Context-Aware Engine (CAG):** Intelligently selects relevant code snippets for analysis.
+    -   **Visual Architecture Maps:** Auto-generates Mermaid flowcharts from complex code logic.
+    -   **Deep Profile Intelligence:** Analyzes coding styles and commit patterns for developer insights.
+    -   **Zero-Config Security Audits:** Detects vulnerabilities with AI-powered triage and fix recommendations.
+-   **Technologies:** **Next.js**, **Google Gemini**, **Vercel KV**, **TypeScript**, **Tailwind CSS**, **Framer Motion**.
 
-### 2. AI DocParser 📄
+#### 2. EchoTasks 🗣️
 
-**[Project Link](https://github.com/403errors/AI-DocParser)** 
+**[Project Link](https://github.com/403errors/echotasks)** | **[Live Demo](https://echotasks-ai.vercel.app)**
 
-*   **Description:**  An AI-powered framework for extracting key-value pairs and generating summaries from PDFs with exceptional accuracy. Designed to handle diverse document formats, from legal documents to research papers.
-*   **Highlights:**
-    *   **High Accuracy:**  Achieves 99.22% accuracy in text extraction using Fitz.
-    *   **Advanced NLP:**  Leverages SpaCy for Named Entity Recognition (NER) and regular expressions for specialized parsing (e.g., legal dates).
-    *   **Reinforcement Learning Optimization:** Employs reinforcement learning to improve parsing adaptability for dynamic PDFs and enables retraining with custom datasets.
-    *   **Structured Data Output:**  Transforms unstructured PDF content into structured, usable data.
+-   **Description:** A voice-first to-do list application for intuitive task management entirely through natural language commands, powered by **Deepgram** for real-time transcription and **Groq**'s `qwen/qwen3-32b` for AI command analysis.
+-   **Highlights:**
+    -   **Voice-First Interface:** Manage tasks using natural language commands.
+    -   **Real-Time Transcription:** Blazing-fast and accurate speech-to-text.
+    -   **AI-Powered Command Analysis:** Intelligently understands intent and extracts task details.
+    -   **Client-Side Logic:** Fast, local models for instant priority and date detection.
+-   **Technologies:** **Next.js**, **React**, **Deepgram**, **Groq**, `qwen/qwen3-32b`, **ShadCN/UI**, **Tailwind CSS**, **Framer Motion**.
 
-*   **Technologies:** SpaCy, Fitz, RegEx, Reinforcement Learning, Python
+#### 3. RoadSafetyAI 🛣️
 
-### 3. TubeQuery 🎥
+**[Project Link](https://github.com/403errors/roadsafetyai)** | **[Live Demo]([https://repomind-ai.vercel.app](https://studio--studio-7508206524-6fb40.us-central1.hosted.app))**
 
-**[Project Link](https://github.com/403errors/TubeQuery)**  
+-   **Description:** An advanced web application providing expert-level road safety intervention recommendations. It uses a **Retrieval-Augmented Generation (RAG)** architecture with **Google's Gemini LLM** and **Vertex AI Search**.
+-   **Highlights:**
+    -   **RAG Architecture:** Grounded recommendations from a curated knowledge base.
+    -   **AI Orchestration:** Leverages **Google Genkit** to manage the entire AI workflow.
+    -   **Evidence-Based Advice:** Provides detailed rationale and direct citations from source documents.
+    -   **Optimized Flow:** Brainstorms search queries and performs parallel searches for reduced latency.
+-   **Technologies:** **Next.js**, **React**, **TypeScript**, **Tailwind CSS**, **ShadCN UI**, **Google Genkit**, **Gemini 2.5 Flash**, **Vertex AI Search**, **Firebase App Hosting**.
 
-*   **Description:** An LLM-powered tool that allows users to extract information, transcribe, and ask questions about YouTube video content.  Provides a seamless way to interact with video transcripts.
-*   **Highlights:**
-    *   **Speech-to-Text:** Utilizes OpenAI Whisper for high-quality speech-to-text conversion.
-    *   **Audio Extraction:**  Uses FFMPEG for efficient audio extraction from YouTube videos.
-    *   **NLP-Driven Querying:** Employs Hugging Face Transformers for natural language processing and query resolution.
-    *   **Scalable Design:**  Built with a scalable architecture to support multilingual transcription, advanced summarization, and AI-powered query handling.  Future-proofed for real-time processing and cloud deployment.
+#### 4. MyJournalApp ✍️
 
-*   **Technologies:**  OpenAI Whisper, Hugging Face Transformers, FFMPEG, Python
+**[Project Link](https://github.com/403errors/myJournalApp)** | **[Live Demo](https://myjournalapp.onrender.com/)**
 
-### 4. Food Delivery App (Client + Admin) 🍔
+-   **Description:** A simple and intuitive web application designed for researchers and scholars to store and manage journal entries without user authentication, focusing on a minimal and organized writing space.
+-   **Highlights:**
+    -   **Minimalist Interface:** Clean design for focused writing.
+    -   **No Authentication:** Quick and easy access to create and manage entries.
+    -   **Node.js & Express.js:** Robust backend for handling content.
+    -   **EJS Templating:** Dynamic rendering of journal entries.
+-   **Technologies:** **Node.js**, **Express.js**, **EJS**, **JavaScript**, **CSS**, **lodash**.
 
-**[Project Link](https://github.com/403errors/food-delivery)**  
+#### 5. IdeaFlowAI ✨
 
-*   **Description:** A full-stack MERN application simulating a food delivery service, complete with secure authentication, separate customer and administrator panels, cart management, and Stripe payment integration.
-*   **Highlights:**
-    *   **Secure Authentication:** Implements robust user authentication using JWT (JSON Web Tokens) and bcrypt for password hashing.
-    *   **RESTful API:**  Well-structured RESTful APIs built with Express.js and Node.js.
-    *   **Database Management:** Uses MongoDB and Mongoose for efficient data modeling and CRUD operations.
-    *   **State Management:** Leverages Redux Toolkit for predictable state management in the React frontend.
-    *   **Payment Integration:**  Integrates Stripe Webhooks for secure and reliable payment processing.
-*    **Input Validation:** Uses Validator for protecting data integrity.
-*   **Technologies:** MongoDB, Express.js, React, Node.js, Redux Toolkit, JWT, bcrypt, Stripe, Validator, Local Storage
+**[Live Demo](https://github.com/403errors/ideaflowai)**
 
-### 5. CineTrack API 🎬
+-   **Description:** An innovative web application that streamlines the process of transforming raw ideas into structured, developer-ready plans using generative AI.
+-   **Highlights:**
+    -   **AI-Powered Idea Extraction:** Converts concepts from text, images, or PDFs into structured summaries.
+    -   **Adaptive Questionnaire:** AI product manager refines ideas with non-technical, multiple-choice questions.
+    -   **Intelligent Tech Stack Suggestions:** Recommends optimal tech stacks for projects.
+    -   **Developer-Ready Brief:** Generates project setup prompts, file structures, and sequential engineering prompts.
+-   **Technologies:** **Next.js**, **TypeScript**, **Genkit**, **Google AI (Gemini)**, **React**, **ShadCN UI**, **Tailwind CSS**, **Firebase (Firestore, Auth)**.
 
-**[Project Link](https://github.com/403errors/cinetrack-api)**  
+#### 6. CancerCareAI 🏥
 
-*   **Description:**  A RESTful API that enables users to track movies, TV shows, books, and anime, and manage personalized watchlists.  Focuses on security and performance.
-*   **Highlights:**
-    *   **Secure Authentication:**  Employs JWT, bcrypt, and helmet for robust authentication and security.
-    *   **Microservices Architecture:**  Designed with a modular microservices architecture for improved maintainability and scalability.
-    *   **Security Features:**  Includes rate limiting, input validation, and MongoDB sanitization to protect against common web vulnerabilities.
-    *   **API Functionality:**  Provides features for filtering, sorting, and pagination to enhance user experience.
+**[Project Link](https://github.com/403errors/CancerCareAI)** | **[Live Notebook](https://colab.research.google.com/drive/13bzx0MyOojzwq6f8PcUOp5o_LvXt6B1E?usp=sharing)**
 
-*   **Technologies:** Node.js, Express.js, Mongoose, JWT, bcrypt, helmet, MongoDB
+-   **Description:** An AI-powered system for extracting cancer-related information from patient Electronic Health Record (EHR) notes, focusing on information retrieval and structured medical data extraction.
+-   **Highlights:**
+    -   **Multi-stage Information Retrieval:** Combines keyword (BM25) and semantic search (Sentence Transformers, CrossEncoder).
+    -   **LLM-based Data Extraction:** Uses quantized **Qwen/Qwen2.5-7B-Instruct-1M** for structured data output in JSON.
+    -   **Robust Error Handling:** Implements mechanisms for `JSONDecodeError` recovery.
+    -   **GPU Efficiency:** Utilizes 4-bit quantization for running large models on T4 GPUs.
+-   **Technologies:** **Python**, **NLTK**, **BM25**, **Sentence Transformers**, **CrossEncoder**, **Qwen LLM**, **bitsandbytes**, **PyTorch**.
 
-### 6. Keeper App 📝
+#### 7. TubeQuery 🎥
 
-**[Project Link](https://github.com/403errors/Keeper-App)**  
+**[Project Link](https://github.com/403errors/TubeQuery)** | **[Kaggle Notebook](https://www.kaggle.com/code/sitama/tubequery)**
 
-*   **Description:** A React-based note-taking web application inspired by Google Keep, allowing users to create, edit, and delete notes with a clean and intuitive user interface.
-*   **Highlights:**
-    *   **Responsive UI:** Built with React, JSX, and Material-UI for a dynamic and responsive user experience.
-    *   **State Management:** Uses React state for efficient note management.
-    *   **Modern Development Practices:** Supports CI/CD deployment with Render integration.
-
-*   **Technologies:** React, JSX, Material-UI, React DOM, Render
+-   **Description:** An LLM-powered tool that enables users to extract information, transcribe, and ask questions about YouTube video content, providing a seamless way to interact with video transcripts.
+-   **Highlights:**
+    -   **Speech-to-Text:** Utilizes **OpenAI Whisper** for high-quality audio transcription.
+    -   **Audio Extraction:** Employs **FFMPEG** for efficient audio extraction from videos.
+    -   **NLP-Driven Querying:** Leverages **Hugging Face Transformers** for natural language processing and query resolution.
+    -   **Scalable Design:** Architected for multilingual transcription, advanced summarization, and AI-powered querying.
+-   **Technologies:** **Python**, **OpenAI Whisper**, **Hugging Face Transformers**, **FFMPEG**.
 
 ---
 
-## Machine Learning Competitions
+### 🏆 Machine Learning Competitions
 
-*   **ML for Marine Autonomy (OCEANA IIT-Madras):**  Secured 3rd place.  Developed a CNN-based Convolutional Autoencoder for efficient underwater image transmission and decoding. Achieved 85%+ reconstruction accuracy.
-*   **Pravartak Datathon (Research Park, IIT-Madras):** Secured 4th place. Built a hypertuned regression model to predict US house prices, achieving a 92% MSE reduction using techniques like EDA, spatial analysis (GeoPandas, Matplotlib), and feature engineering.
+-   **ML for Marine Autonomy (OCEANA IIT-Madras):** Secured **3rd place**. Developed a **CNN-based Convolutional Autoencoder** for efficient underwater image transmission and decoding, achieving 85%+ reconstruction accuracy.
+-   **Pravartak Datathon (Research Park, IIT-Madras):** Secured **4th place**. Built a hypertuned regression model to predict US house prices, achieving a **92% MSE reduction** using techniques like EDA, spatial analysis (**GeoPandas**, **Matplotlib**), and feature engineering.
 
 ---
 
-## Contribution and Contact
+### 🤝 Contribution and Contact
 
 I'm always open to collaboration and new opportunities. Feel free to reach out!
