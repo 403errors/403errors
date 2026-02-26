@@ -17,16 +17,12 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer and **B.Tech. graduate from IIT Madras**, specializing in **AI Prompt Engineering**, **Machine Learning**, **Natural Language Processing**, and **Full-Stack Web Development**. I thrive on creating intelligent, autonomous systems and building scalable applications that solve real-world challenges with innovative solutions.
+I'm a passionate developer and **B.Tech. graduate from IIT Madras**, specializing in **AI Full-Stack Web Development**, **Machine Learning** and **Natural Language Processing**,. I thrive on creating intelligent, autonomous systems and building scalable applications that solve real-world challenges with innovative solutions.
 
 ### 🎯 Quick Facts
 
 - 🎓 **Education:** B.Tech from IIT Madras
-- 💼 **Current Role:** GenAI Prompt Engineer at [Klarity.ai](https://www.klarity.ai/) - Building powerful GenAI automations at unprecedented speed and scale
-- 🏆 **Competition Track Record:** 3rd place (ML for Marine Autonomy) | 4th place (Pravartak Datathon)
-- 🔭 **Currently Working On:** Agentic AI systems, RAG architectures, and voice-first applications
-- 🌱 **Currently Learning:** Advanced prompt engineering techniques, multi-agent systems, and LLM orchestration
-- 💡 **Expertise:** Prompt Engineering, Context-Aware Generation (CAG), LLM fine-tuning, and AI workflow automation
+- 💼 **Current Role:** AI Researcher
 
 ---
 
@@ -173,29 +169,6 @@ An advanced web application providing expert-level road safety intervention reco
 - 🎯 Provides source-backed recommendations with verifiable citations
 
 **🛠️ Tech Stack:** Next.js • React • TypeScript • Tailwind CSS • ShadCN UI • Google Genkit • Gemini 2.5 Flash • Vertex AI Search • Firebase App Hosting
-
----
-
-### ✨ [IdeaFlowAI](https://github.com/403errors/ideaflowai) 
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://studio--ideaflow-ai-tt5i0.us-central1.hosted.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/403errors/ideaflowai)
-
-An innovative web application that streamlines the process of transforming raw ideas into structured, developer-ready plans using generative AI.
-
-**🎯 Key Highlights:**
-- **AI-Powered Idea Extraction:** Converts concepts from text, images, or PDFs into structured summaries
-- **Adaptive Questionnaire:** AI product manager refines ideas with non-technical, multiple-choice questions
-- **Intelligent Tech Stack Suggestions:** Recommends optimal tech stacks based on project requirements
-- **Developer-Ready Brief:** Generates complete project setup prompts, file structures, and sequential engineering prompts
-- **End-to-End Workflow:** Takes you from "I have an idea" to "Here's the implementation plan"
-
-**📊 Impact:**
-- ⏱️ Reduces project planning time by 70%
-- 🎯 Supports 10+ input formats (text, images, PDFs)
-- 🔧 Generates actionable developer prompts ready for AI coding tools
-
-**🛠️ Tech Stack:** Next.js • TypeScript • Google Genkit • Gemini AI • React • ShadCN UI • Tailwind CSS • Firebase (Firestore, Auth)
 
 ---
 
